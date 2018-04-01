@@ -1,0 +1,15 @@
+{
+    "name": "mysseairtricity.waynelloyd",
+    "description": "Webapp for MySSEAirtricity",
+    "architecture": "all",
+    "title": "MySSEAirtricity",
+    "hooks": {
+        "MySSEAirtricity": {
+            "apparmor": "MySSEAirtricity.apparmor",
+            "desktop": "MySSEAirtricity.desktop"
+        }
+    },
+    "version": "0.4",
+    "maintainer": "waynelloyd <wayne.lloyd@outlook.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

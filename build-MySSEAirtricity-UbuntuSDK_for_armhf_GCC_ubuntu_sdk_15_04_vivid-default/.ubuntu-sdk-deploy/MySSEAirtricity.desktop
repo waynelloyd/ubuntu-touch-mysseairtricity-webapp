@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=My SSE Airtricity
+Comment=Webapp for sseairtricity.com
+Type=Application
+Icon=MySSEAirtricity.png
+Exec=webapp-container --maximized --store-session-cookies --webappUrlPatterns=https?://m.sseairtricity.com/* https://m.sseairtricity.com/login
+Terminal=false
+X-Ubuntu-Touch=true
+
+Name[en_GB]=MySSEAirtricity
